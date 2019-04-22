@@ -1,0 +1,1 @@
+Ort zum Abspeichern der trainierten W2V Modelle
