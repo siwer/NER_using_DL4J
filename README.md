@@ -30,7 +30,7 @@ Die enthaltenen Klassen und ihre Funktionalität sollen hier kurz beschrieben we
    - VectorCreator (beinhaltet Funktionen zum Generieren des sparse Wordshapevektors)
    - WordShape (Wandelt Wörter (Tokens) in ihre Wordshape um)
    - Datatransformer (Überführt die einzelnen Dateien für RNN in eine Datei für FF)
-   - W2VAnalyzer (diente ursprünglich der OOV Analyse, verfügt nun über eine Funktion zum Erstellen von Daten)
+   - W2VAnalyzer (diente ursprünglich der OOV Analyse, verfügt nun über eine Funktion zum Erstellen von Daten); enthält Funktionen mit vorgefertigten Testsets für das W2V Modell
  - Klassen, welche DL4J Methoden implementieren (diese dienen dem Training der W2V Modelle und der neuronalen Netzwerke)
    - W2V (trainiert und speichert ein W2V Modell)
    - NeuralNetwork (trainiert und evaluiert verschiedene Neuronale Netzwerke)
