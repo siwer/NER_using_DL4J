@@ -1,5 +1,6 @@
 In diesem Repositorium befindet sich der Quellcode für das in der Masterarbeit beschrieben Projekt zur Named Entity Recognition.
 Folgende externen Daten bzw. Skripte wurden dabei verwendet:
+ - https://github.com/michmech/lemmatization-lists
  - https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/
  - Wikipedia Dump:
    - https://dumps.wikimedia.org/dewiki/latest/dewiki-latest-pages-articles.xml.bz2
